@@ -64,7 +64,7 @@ CC_LAB2/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Snehavermaa/UE23CS351B-CC-LAB2
 cd UE23CS351B-CC-LAB2
 ```
 
