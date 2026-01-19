@@ -65,7 +65,7 @@ CC_LAB2/
 
 ```bash
 git clone <your-repo-link>
-cd CC_LAB2
+cd UE23CS351B-CC-LAB2
 ```
 
 ### 2️⃣ Create Virtual Environment
